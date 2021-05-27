@@ -6,7 +6,7 @@ fetch("/api/transaction")
     return response.json();
   })
   .then(data => {
-
+    console.log(data)
     transactions = data;
 
     populateTotal();

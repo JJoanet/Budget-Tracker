@@ -37,4 +37,4 @@ Michael Francisco
 N/A
 
 ## Screenshot
-![Screenshot](./assets/img/screenshot.png)
+![Screenshot](./assets/Capture.PNG)

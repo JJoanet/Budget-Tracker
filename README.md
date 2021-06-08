@@ -1,3 +1,5 @@
+## Live Deploy
+https://northwestern-budget-tracker.herokuapp.com/
 
 # Budget Tracker
 
@@ -11,14 +13,12 @@ JeremyJoanet@protonmail.com
 ## Description
 This application allows users to track income and spending with or without online access.
 
+Enter the name of your transaction on the home page, and the amount then simply decide to add or subtract funds. Your submission is then saved via Atlas DB utilizing Mongo.
+Submissions are tracked and displayed via a graph at the bottom of the homepage, and via a table under the transaction input form.
+
 ## Table of Contents
 - [Usage](#Usage)
-- [Installation](#Dependancies)
-- [Testing](#Testing)
 - [Credits](#Credits)
-- [License](#License)
-- [Contributing](#Contributing)
-- [License Information](#LicenseInfo)
 - [Screenshot](#Screenshot)
 
 ## Usage

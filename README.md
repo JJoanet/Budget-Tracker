@@ -24,17 +24,8 @@ This application allows users to track income and spending with or without onlin
 ## Usage
 Simply navigate to the deployed heroku site for easy access.
 
-## Dependancies
-<npm i>, however this application is on Heroku.
-
-## Testing
-N/A
-
 ## Credits
 Michael Francisco
-
-## Contributing
-N/A
 
 ## Screenshot
 ![Screenshot](./assets/Capture.PNG)
